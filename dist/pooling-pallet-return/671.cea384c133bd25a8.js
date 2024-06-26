@@ -1,0 +1,1 @@
+(self.webpackChunkpooling_pallet_return=self.webpackChunkpooling_pallet_return||[]).push([[671],{663:(e,r,t)=>{t.r(r);var o=t(418),l=t(470),n=t(135),a=t(540);l.H(document.getElementById("root")).render((0,a.jsx)(o.StrictMode,{children:(0,a.jsx)(n.A,{})}))},470:(e,r,t)=>{var o=t(140);r.H=o.createRoot,o.hydrateRoot}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkpooling_pallet_return=self.webpackChunkpooling_pallet_return||[]).push([[34],{916:(e,l,p)=>{p.r(l),p.d(l,{default:()=>a.A});var a=p(135)}}]);
